@@ -118,7 +118,7 @@ class ParticleUI :
         self.window = Tk()
 
         # create simulation context...
-        self.canvas = Canvas(self.window,width=self.width,height=self.height)
+        self.canvas = Canvas(self.window,width=self.width,height=self.height, bg = 'black')
         self.canvas.grid()
         
         self.matrice_bloom = [[0 for _ in range(2000)] for _ in range(2000)]
