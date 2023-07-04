@@ -10,7 +10,7 @@ je ne suis pas très satisfait du résultat en effet le feu que je simmule a un 
 
 --------------------------------------------------------------------------
 
-##pour lancer les simulations : appuyer sur e 
+#pour lancer les simulations : appuyer sur e 
 
 --------------------------------------------------------------------------
 
